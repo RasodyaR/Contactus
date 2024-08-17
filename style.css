@@ -14,8 +14,9 @@
    justify-content: center;
    align-items: center;
    flex-direction: column;
-   background: url(MicroBee.png);
+   background: url(MicroBeeComupters.png);
    background-size:cover;
+   background-color:black;
 }
 
 .contact .content
@@ -28,13 +29,13 @@
 {
    font-size: 36px;
    font-weight: 500;
-   color: black;
+   color: white;
 }
 
 .contact .content p
 {
    font-weight: 300;
-   color: black;
+   color: white;
 }
    
 .container
@@ -77,7 +78,7 @@
    display: flex;
    margin-left: 20px;
    font-size: 16px;
-   color: black;
+   color: white;
    flex-direction: column;
    font-weight: 300;
 }
@@ -92,6 +93,7 @@
 {
    width: 40%;
    padding: 40px;
+   color:white;
 }
 
 .contactForm h2
